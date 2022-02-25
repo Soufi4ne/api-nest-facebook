@@ -24,7 +24,7 @@
 
 ## Description
 
-A REST-API using [NestJS](https://github.com/nestjs/nest)
+API using Nest
 
 ## Installation
 
